@@ -8,6 +8,6 @@ Audits organisational password policies.
 - Identifies weak or outdated requirements
 - Provides remediation recommendations
 
-##usage
-````bash
+## Usage
+```bash
 sudo python3 password_analyser.py
