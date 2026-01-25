@@ -3,7 +3,7 @@
 
 Audits organisational password policies.
 
-##Features
+## Features
 - Benchmarked against NIST SP 800-63B guidelines
 - Identifies weak or outdated requirements
 - Provides remediation recommendations
