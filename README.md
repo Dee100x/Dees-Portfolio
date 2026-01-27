@@ -4,6 +4,7 @@ This repository contains a collection of command-line cybersecurity tools built 
 Each tool is modular and can be executed independently or launched via a central CLI menu.
 
 ## Projects Included
+<img width="373" height="170" alt="image" src="https://github.com/user-attachments/assets/8df79605-3827-4f49-b4d6-fd65bf365e0a" />
 
 ### 🔍 Network Scanner (CLI)
 - ARP-based network discovery using Scapy
