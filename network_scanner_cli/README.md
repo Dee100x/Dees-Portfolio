@@ -15,6 +15,8 @@ sudo python3 cli_scanner.py
 
 ```
 ## Example output
+
+```text
 === Network Device Scanner ===
 
 Using interface: eth0
