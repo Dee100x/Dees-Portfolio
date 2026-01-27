@@ -4,6 +4,7 @@ This repository contains a collection of command-line cybersecurity tools built 
 Each tool is modular and can be executed independently or launched via a central CLI menu.
 
 ## Projects Included
+```text
 ==============================
   Dee's Portfolio
 ==============================
