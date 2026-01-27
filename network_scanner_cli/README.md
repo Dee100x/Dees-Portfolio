@@ -13,7 +13,6 @@ ARP-based network scanner built using Scapy.
 ```bash
 sudo python3 cli_scanner.py
 
-```
 ## Example output
 === Network Device Scanner ===
 
