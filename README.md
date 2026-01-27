@@ -13,7 +13,7 @@ Each tool is modular and can be executed independently or launched via a central
 3) Exit
 
 Select an option: 
-
+```
 ### 🔍 Network Scanner (CLI)
 - ARP-based network discovery using Scapy
 - Identifies connected devices
