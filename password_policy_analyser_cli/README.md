@@ -13,4 +13,5 @@ Audits organisational password policies.
 sudo python3 password_analyser.py
 
 ```
+## Example Output
 <img width="712" height="377" alt="image" src="https://github.com/user-attachments/assets/428bc562-03da-40bd-86f9-256ccec864c9" />
