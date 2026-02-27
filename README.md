@@ -27,7 +27,7 @@ Select an option:
 - Identifies weak or outdated requirements
 - Provides remediation recommendations
 
-## Technologies Used
+## Tools Used
 - Python 3
 - Scapy
 - Linux
